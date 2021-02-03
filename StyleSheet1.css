@@ -16,5 +16,7 @@ p {
     background-color: black
 }
 .gma{
+    width:500px;
+    height:500px;
     align-content:center;
 }
