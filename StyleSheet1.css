@@ -15,8 +15,11 @@ p {
     text-align: center;
     background-color: black
 }
-.gma{
-    width:auto;
-    height:auto;
-    position:center
+.gma {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
